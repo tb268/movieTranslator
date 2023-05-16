@@ -16,7 +16,9 @@ https://github.com/blagarde/midori/blob/master/fonts-japanese-gothic.ttf
 % pip install tesseract
 
 % pip install opencv-python
+
 % pip install pyocr
+
 % conda install ffmpeg-python
 
 *1.5 開発したプログラムのカレントディレクトリ内で、pythonsoturon.py (動画ファイル のパス) (翻訳の場合は Tを追加)を入力する。*
